@@ -1,242 +1,24 @@
-# 🔥 ملف robots.txt محسّن لموقع زيت العلق
-# تم الإنشاء: 7 فبراير 2026
-# الموقع: https://alag-oil.vercel.app/
+# 🔥 robots.txt لموقع زيت العلق
+# Updated: 2 July 2026
+# Site: https://alg.oil.vercel.app/
 
+############################
+# 🧠 القاعدة العامة
+############################
 User-agent: *
 Allow: /
+
+# منع مجلدات غير موجودة / حساسة
 Disallow: /admin/
 Disallow: /private/
 Disallow: /secret/
 Disallow: /test/
 Disallow: /backup/
-Disallow: /*.php$
-Disallow: /*.env$
-Disallow: /*.sql$
-Disallow: /*.log$
-Disallow: /wp-admin/
-Disallow: /wp-includes/
-Disallow: /wp-content/plugins/
-Disallow: /wp-content/themes/
-Disallow: /cgi-bin/
-Disallow: /includes/
-Disallow: /logs/
 Disallow: /tmp/
-Allow: /assets/
-Allow: /assets/images/
-Allow: /assets/videos/
-Allow: /assets/css/
-Allow: /assets/js/
-Allow: /sitemap.xml
-Allow: /robots.txt
-Crawl-delay: 1
-Clean-param: ref /search/
-Clean-param: utm_source /
-Clean-param: utm_medium /
-Clean-param: utm_campaign /
-Clean-param: fbclid /
-Clean-param: gclid /
-Request-rate: 1/10
-Visit-time: 0000-2359
+Disallow: /logs/
+Disallow: /cgi-bin/
 
-# 🎯 Google
-User-agent: Googlebot
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Allow: /assets/videos/*.mp4
-Allow: /assets/images/*.jpg
-Allow: /assets/images/*.png
-Allow: /assets/images/*.webp
-Crawl-delay: 1
-Request-rate: 2/10
-Sitemap: https://alag-oil.vercel.app/sitemap.xml
-Sitemap: https://alag-oil.vercel.app/sitemap-video.xml
-
-# 🎯 Google Image Bot
-User-agent: Googlebot-Image
-Allow: /
-Allow: /assets/images/
-Allow: /assets/videos/
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 1
-Request-rate: 3/10
-
-# 🎯 Google Video Bot
-User-agent: Googlebot-Video
-Allow: /
-Allow: /assets/videos/
-Allow: /assets/images/
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 1
-Request-rate: 2/10
-
-# 🎯 Bing
-User-agent: Bingbot
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 2
-Request-rate: 1/15
-Sitemap: https://alag-oil.vercel.app/sitemap.xml
-
-# 🎯 Yandex
-User-agent: Yandex
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 3
-Clean-param: from /search
-Clean-param: yclid /
-Host: https://alag-oil.vercel.app
-Sitemap: https://alag-oil.vercel.app/sitemap.xml
-
-# 🎯 Baidu
-User-agent: Baiduspider
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 5
-Request-rate: 1/20
-
-# 🎯 DuckDuckGo
-User-agent: DuckDuckBot
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 1
-Request-rate: 2/10
-
-# 🎯 Apple
-User-agent: Applebot
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 2
-Request-rate: 2/10
-
-# 🎯 Facebook
-User-agent: FacebookExternalHit
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 2
-Request-rate: 2/10
-
-# 🎯 Twitter
-User-agent: Twitterbot
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 1
-Request-rate: 2/10
-
-# 🎯 LinkedIn
-User-agent: LinkedInBot
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 2
-Request-rate: 2/10
-
-# 🎯 Instagram
-User-agent: Instagram
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 3
-Request-rate: 1/15
-
-# 🎯 Telegram
-User-agent: TelegramBot
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 1
-Request-rate: 3/10
-
-# 🎯 WhatsApp
-User-agent: WhatsApp
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Crawl-delay: 2
-Request-rate: 2/10
-
-# 🤖 روبوتات غير مرغوب فيها
-User-agent: AhrefsBot
-Disallow: /
-Crawl-delay: 10
-
-User-agent: SemrushBot
-Disallow: /
-Crawl-delay: 10
-
-User-agent: MJ12bot
-Disallow: /
-Crawl-delay: 10
-
-User-agent: dotbot
-Disallow: /
-Crawl-delay: 10
-
-User-agent: MegaIndex
-Disallow: /
-Crawl-delay: 10
-
-User-agent: BLEXBot
-Disallow: /
-Crawl-delay: 10
-
-User-agent: Webmeup
-Disallow: /
-Crawl-delay: 10
-
-User-agent: SearchmetricsBot
-Disallow: /
-Crawl-delay: 10
-
-User-agent: spbot
-Disallow: /
-Crawl-delay: 10
-
-User-agent: proximic
-Disallow: /
-Crawl-delay: 10
-
-User-agent: Mail.RU_Bot
-Disallow: /
-Crawl-delay: 10
-
-User-agent: YandexBot
-Disallow: /
-Crawl-delay: 10
-
-User-agent: Slurp
-Disallow: /
-Crawl-delay: 10
-
-# 🔍 إعدادات إضافية
-# السماح بفهرسة الفيديوهات
-Allow: /*.mp4$
-Allow: /*.webm$
-Allow: /*.mov$
-
-# السماح بفهرسة الصور
-Allow: /*.jpg$
-Allow: /*.jpeg$
-Allow: /*.png$
-Allow: /*.gif$
-Allow: /*.webp$
-Allow: /*.svg$
-
-# السماح بفهرسة CSS و JS
-Allow: /*.css$
-Allow: /*.js$
-
-# منع فهرسة ملفات النظام
-Disallow: /*.php$
+# منع ملفات النظام
 Disallow: /*.env$
 Disallow: /*.sql$
 Disallow: /*.log$
@@ -244,21 +26,67 @@ Disallow: /*.bak$
 Disallow: /*.old$
 Disallow: /*.tmp$
 
-# 🗺️ خرائط الموقع
-Sitemap: https://alag-oil.vercel.app/sitemap.xml
-Sitemap: https://alag-oil.vercel.app/sitemap-video.xml
-Sitemap: https://alag-oil.vercel.app/sitemap-images.xml
+# السماح بالملفات المهمة
+Allow: /assets/
+Allow: /assets/images/
+Allow: /assets/videos/
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.svg$
+Allow: /*.mp4$
 
-# 📍 معلومات الموقع
-# موقعك متوافق مع الجوال: نعم
-# موقعك يستخدم HTTPS: نعم
-# لديك شهادة SSL: نعم
-# سرعة الموقع: ممتازة
-# تصميم متجاوب: نعم
+############################
+# 🎯 Google
+############################
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /private/
 
-# 🎯 تركيز الزحف على
-# 1. الصفحة الرئيسية
-# 2. صفحات الفيديوهات
-# 3. صفحات المنتجات
-# 4. الصور والفيديوهات
-# 5. محتوى SEO المخفي
+############################
+# 🎯 Google Image
+############################
+User-agent: Googlebot-Image
+Allow: /
+Allow: /assets/images/
+
+############################
+# 🎯 Google Video
+############################
+User-agent: Googlebot-Video
+Allow: /
+Allow: /assets/videos/
+
+############################
+# 🎯 Bing
+############################
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+############################
+# 🚫 Bots غير مرغوب فيها (اختياري)
+############################
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+############################
+# 🗺️ Sitemaps (مهم جداً)
+############################
+Sitemap: https://alg.oil.vercel.app/sitemap.xml
+Sitemap: https://alg.oil.vercel.app/sitemap-video.xml
+Sitemap: https://alg.oil.vercel.app/sitemap-images.xml
