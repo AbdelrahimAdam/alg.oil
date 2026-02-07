@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://alag-oil.vercel.app/#video-demo</loc>
+    <video:video>
+      <video:thumbnail_loc>https://alag-oil.vercel.app/assets/images/video-preview.jpg</video:thumbnail_loc>
+      <video:title>فيديو توضيحي عن زيت العلق</video:title>
+      <video:description>شاهد كيف يعمل زيت العلق لتكبير القضيب</video:description>
+      <video:content_loc>https://alag-oil.vercel.app/assets/videos/product-demo.mp4</video:content_loc>
+      <video:duration>150</video:duration>
+    </video:video>
+  </url>
+</urlset>

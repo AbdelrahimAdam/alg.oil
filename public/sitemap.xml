@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <url>
+    <!-- عنوان الصفحة الرئيسية -->
+    <loc>https://alag-oil.vercel.app/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- 🔥 الفيديو الأول: توضيحي عن المنتج -->
+    <video:video>
+      <video:thumbnail_loc>https://alag-oil.vercel.app/assets/images/video-preview.jpg</video:thumbnail_loc>
+      <video:title>فيديو توضيحي عن زيت العلق لتكبير القضيب طبيعياً</video:title>
+      <video:description>شاهد كيفية عمل زيت العلق لتكبير حجم القضيب وعلاج ضعف الانتصاب والقذف السريع. منتج طبيعي 100% - نتائج مضمونة خلال 4 أسابيع - بدون آثار جانبية.</video:description>
+      <video:content_loc>https://alag-oil.vercel.app/assets/videos/product-demo.mp4</video:content_loc>
+      <video:duration>150</video:duration> <!-- 2 دقيقة و 30 ثانية -->
+      <video:rating>4.7</video:rating>
+      <video:view_count>1580</video:view_count>
+      <video:publication_date>2026-01-15</video:publication_date>
+      <video:expiration_date>2027-01-15</video:expiration_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:uploader info="https://alag-oil.vercel.app/">زيت العلق الأصلي</video:uploader>
+      <video:live>no</video:live>
+      <video:platform allow_embed="yes" relationship="allow">web</video:platform>
+      <video:restriction relationship="allow">SA EG SD AE QA KW BH OM JO LB</video:restriction>
+      <video:price currency="SAR">300</video:price>
+      <video:price type="rent" currency="SAR">0</video:price>
+      <video:tag>زيت العلق</video:tag>
+      <video:tag>تكبير القضيب</video:tag>
+      <video:tag>ضعف الانتصاب</video:tag>
+      <video:tag>القذف السريع</video:tag>
+      <video:tag>صحة رجالية</video:tag>
+      <video:category>الصحة والعافية</video:category>
+      <video:player_loc allow_embed="yes">https://alag-oil.vercel.app/#video-demo</video:player_loc>
+    </video:video>
+    
+    <!-- 🔥 الفيديو الثاني: طريقة الاستخدام -->
+    <video:video>
+      <video:thumbnail_loc>https://alag-oil.vercel.app/assets/images/usage-preview.jpg</video:thumbnail_loc>
+      <video:title>طريقة استخدام زيت العلق لتكبير القضيب وعلاج ضعف الانتصاب</video:title>
+      <video:description>تعلم كيفية استخدام زيت العلق بالطريقة الصحيحة للحصول على أفضل نتائج. خطوات سهلة: اغسل القضيب، ضع الزيت، دلك لمدة دقيقتين، اتركه 6 ساعات، اغسله. استخدم يومياً لمدة 4 أسابيع.</video:description>
+      <video:content_loc>https://alag-oil.vercel.app/assets/videos/product-usage.mp4</video:content_loc>
+      <video:duration>195</video:duration> <!-- 3 دقائق و 15 ثانية -->
+      <video:rating>4.8</video:rating>
+      <video:view_count>1240</video:view_count>
+      <video:publication_date>2026-01-20</video:publication_date>
+      <video:expiration_date>2027-01-20</video:expiration_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:uploader info="https://alag-oil.vercel.app/">زيت العلق الأصلي</video:uploader>
+      <video:live>no</video:live>
+      <video:platform allow_embed="yes" relationship="allow">web</video:platform>
+      <video:restriction relationship="allow">SA EG SD AE QA KW BH OM JO LB</video:restriction>
+      <video:price currency="SAR">300</video:price>
+      <video:price type="rent" currency="SAR">0</video:price>
+      <video:tag>طريقة الاستخدام</video:tag>
+      <video:tag>تعليمات زيت العلق</video:tag>
+      <video:tag>كيفية التكبير</video:tag>
+      <video:tag>الطريقة الصحيحة</video:tag>
+      <video:tag>نصائح الاستخدام</video:tag>
+      <video:category>الصحة والعافية</video:category>
+      <video:player_loc allow_embed="yes">https://alag-oil.vercel.app/#video-demo</video:player_loc>
+    </video:video>
+    
+    <!-- 🖼️ صور لتحسين SEO -->
+    <image:image>
+      <image:loc>https://alag-oil.vercel.app/assets/images/logo.png</image:loc>
+      <image:title>زيت العلق الأصلي - تكبير القضيب طبيعياً - علاج ضعف الانتصاب</image:title>
+      <image:caption>زيت العلق الطبيعي 100% لتكبير حجم القضيب خلال 4 أسابيع - علاج ضعف الانتصاب والقذف السريع - نتائج مضمونة - شحن لجميع الدول العربية</image:caption>
+      <image:geo_location>السودان</image:geo_location>
+      <image:license>https://alag-oil.vercel.app/</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://alag-oil.vercel.app/assets/images/video-preview.jpg</image:loc>
+      <image:title>فيديو توضيحي عن زيت العلق لتكبير القضيب</image:title>
+      <image:caption>شاهد كيف يعمل زيت العلق لتكبير حجم القضيب طبيعياً خلال 4 أسابيع - علاج ضعف الانتصاب والقذف السريع</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://alag-oil.vercel.app/assets/images/usage-preview.jpg</image:loc>
+      <image:title>فيديو طريقة استخدام زيت العلق لتكبير القضيب</image:title>
+      <image:caption>تعلم كيفية استخدام زيت العلق بالطريقة الصحيحة للحصول على أفضل نتائج في تكبير حجم القضيب وعلاج ضعف الانتصاب</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://alag-oil.vercel.app/assets/images/hero-bg.jpg</image:loc>
+      <image:title>زيت العلق الأصلي - الحل الطبيعي لمشاكل الرجال</image:title>
+      <image:caption>زيت العلق الطبيعي لتكبير القضيب، علاج ضعف الانتصاب، القذف السريع. تركيبة طبيعية 100% - نتائج مضمونة - شحن لجميع الدول</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://alag-oil.vercel.app/assets/images/product-main.jpg</image:loc>
+      <image:title>زيت العلق الأصلي - عبوة المنتج</image:title>
+      <image:caption>زيت العلق الأصلي 100% - الحل الطبيعي لتكبير حجم القضيب، علاج ضعف الانتصاب، القذف السريع. تركيبة طبيعية آمنة</image:caption>
+    </image:image>
+    
+    <!-- 📍 معلومات إضافية عن الصفحة -->
+    <mobile:mobile/>
+    <news:news>
+      <news:publication>
+        <news:name>زيت العلق</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-15</news:publication_date>
+      <news:title>زيت العلق الأصلي - الحل الطبيعي لتكبير القضيب وعلاج ضعف الانتصاب</news:title>
+      <news:keywords>زيت العلق, تكبير القضيب, علاج ضعف الانتصاب, القذف السريع, تكبير الذكر, حجم القضيب</news:keywords>
+    </news:news>
+  </url>
+  
+  <!-- 🔗 صفحة الاتصال (اختياري) -->
+  <url>
+    <loc>https://alag-oil.vercel.app/#contact</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- 🔗 صفحة الأسعار (اختياري) -->
+  <url>
+    <loc>https://alag-oil.vercel.app/#pricing</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- 🔗 صفحة الأسئلة الشائعة (اختياري) -->
+  <url>
+    <loc>https://alag-oil.vercel.app/#faq</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

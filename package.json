@@ -1,0 +1,22 @@
+{
+  "name": "thiqal-luxury-website",
+  "version": "1.0.0",
+  "description": "موقع فاخر للعناية الرجالية باللغة العربية",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx live-server .",
+    "start": "npx serve .",
+    "build": "echo \"Static site — no build step required\"",
+    "test": "echo \"No tests configured\""
+  },
+  "keywords": [
+    "luxury",
+    "arabic",
+    "rtl",
+    "wellness",
+    "men"
+  ],
+  "author": "Thiqal Team",
+  "license": "MIT"
+}
